@@ -1,0 +1,24 @@
+{
+    "name": "ma-verteidigung",
+    "version": "1.0.0",
+    "description": "Präsentation für meine Masterarbeitsverteidigung",
+    "main": "index.js",
+    "repository": "https://github.com/Sebkasanzew/MT17-Presentation.git",
+    "scripts": {
+        "build": "webpack -p",
+        "serve": "webpack-dev-server",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "impress"
+    ],
+    "author": "Sebastian Kasanzew",
+    "license": "ISC",
+    "dependencies": {
+        "impress.js": "^0.6.0"
+    },
+    "devDependencies": {
+        "webpack": "^2.3.3",
+        "webpack-dev-server": "^2.4.2"
+    }
+}
