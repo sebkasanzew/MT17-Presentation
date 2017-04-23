@@ -1,0 +1,8 @@
+.step {
+  opacity: 0;
+  transition: opacity 1s;
+}
+
+.step.active {
+  opacity: 1
+}
