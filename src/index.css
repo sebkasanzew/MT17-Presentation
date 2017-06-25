@@ -1,5 +1,11 @@
+.impress-on-* {
+  background: #523652;
+}
+
 .step {
-  opacity: 0;
+  width: 1024px;
+  font-size: 40pt;
+  opacity: 0.3;
   transition: opacity 1s;
 }
 
