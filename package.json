@@ -15,7 +15,7 @@
     "author": "Sebastian Kasanzew",
     "license": "ISC",
     "dependencies": {
-        "impress.js": "^0.6.0"
+        "impress.js": "^1.0.0"
     },
     "devDependencies": {
         "css-loader": "^0.28.0",
