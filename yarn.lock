@@ -1645,8 +1645,9 @@ import-local@^2.0.0:
     resolve-cwd "^2.0.0"
 
 impress.js@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/impress.js/-/impress.js-1.0.0.tgz#a73f86bf8bc6748fc8822809d8d764a607d0b846"
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/impress.js/-/impress.js-1.1.0.tgz#2a056e7ac51855ff7b5188bf1520d429a73b3544"
+  integrity sha512-APQNnZx1M8RBe9vHdNAiAbIz4MaL0UDqIj0BDJOeFLqI/529/lGMmiz0m/c82xC08tBq8n9JzpMNoDykq0Zckg==
 
 indexes-of@^1.0.1:
   version "1.0.1"
